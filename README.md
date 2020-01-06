@@ -96,7 +96,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 ## [Models](#content)   
     
 ### [Basic Models](#content)
-1. **Graphical-Based Learning Environments for Pattern Recognition.** SSPR/SPR 2004. [paper](https://link.springer.com/content/pdf/10.1007%2F978-3-540-27868-9_4.pdf)
+- [x] **Graphical-Based Learning Environments for Pattern Recognition.** SSPR/SPR 2004. [paper](https://link.springer.com/content/pdf/10.1007%2F978-3-540-27868-9_4.pdf)
 
     *Franco Scarselli, Ah Chung Tsoi, Marco Gori, Markus Hagenbuchner.*
 
